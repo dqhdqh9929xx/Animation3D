@@ -372,6 +372,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b4e9b2db463ec0498d74d77fc7e7b73, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sword: {fileID: 1931754926}
+  attackState: 0
 --- !u!114 &564711427
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2911,6 +2913,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b4e9b2db463ec0498d74d77fc7e7b73, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sword: {fileID: 0}
+  attackState: 0
 --- !u!4 &5901452234712724070
 Transform:
   m_ObjectHideFlags: 0
